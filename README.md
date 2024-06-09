@@ -1,0 +1,1 @@
+Este repositorio contiene un conjunto de proyectos desarrollados en C que reflejan mis habilidades y experiencia en programación.
